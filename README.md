@@ -7,7 +7,7 @@ An interactive **Choose Your Own Adventure** story where you guide Daisy through
 
 This project is a narrative-driven interactive experience built with pure HTML and served through NGINX. Navigate through branching storylines where your decisions matter, all rendered without CSS or JavaScript—a minimalist approach to interactive storytelling.
 
-## echnologies Used
+## Technologies Used
 
 - **HTML** - Pure semantic markup for structure and navigati
 - **NGINX** - High-performance web server
