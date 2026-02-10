@@ -22,6 +22,10 @@ This project is a narrative-driven interactive experience built with pure HTML a
 - Access to terminal/command line
 - Basic familiarity with Linux commands
 
+## Link of the Video
+
+https://www.canva.com/design/DAHA9fub4zM/f3sx7trhMJ2G8tq1dHfxaw/edit?utm_content=DAHA9fub4zM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ### Installation & Deployment
 
 1. **Clone the repository** (if applicable):
