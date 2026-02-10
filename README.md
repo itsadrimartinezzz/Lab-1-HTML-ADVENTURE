@@ -46,5 +46,5 @@ https://www.canva.com/design/DAHA9fub4zM/f3sx7trhMJ2G8tq1dHfxaw/edit?utm_content
 
 4. **Access the story** in your web browser:
    ```
-   [http://localhost/adventure/intro/index.html](http://localhost/adventure/intro/index.html)
+   http://localhost/adventure/intro/index.html
    ```
